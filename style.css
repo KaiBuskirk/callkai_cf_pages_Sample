@@ -39,3 +39,7 @@ h2 {
   color: white;
   text-shadow: 0 0 5px white, 0 0 10px #ae16f0, 0 0 20px #ae16f0, 0 0 40px white;
 }
+
+@media only screen and (max-width:700px){
+  
+}
