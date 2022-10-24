@@ -30,12 +30,14 @@ h1 {
 }
 
 h2 {
+  font-size: 3vh;
   color: gray;
   font-family: "Rubik", sans-serif;
   font-weight: lighter;
 }
 
 h3 {
+  font-size: 2vh;
   color: gray;
   font-family: "Rubik", sans-serif;
   font-weight: lighter;
